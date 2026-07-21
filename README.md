@@ -33,9 +33,7 @@ Profissional Sênior com **+10 anos de experiência** conectando **negócio e te
 | :--- | :--- | :--- |
 | 🧰 [`Gestao-projetos`](https://github.com/everton19811/gerente-de-projetos) | **Repo-modelo-case** com cases de projetos. Use como *template* para novos projetos. | PMBOK · Scrum |
 | 🚀 [`transformacao-digital`](https://github.com/everton19811/transforma-o-digital) | Case anonimizado de transformação digital com escopo, cronograma, riscos e lições aprendidas. | PMBOK · Scrum |
-
-| 🛡️ [`governanca-itil-processos`](https://github.com/everton19811/governanca-itil-processos) | Processos ITIL v3/v4, runbooks de sustentação e SLAs. | ITIL · Governança |
-| 🌀 [`metodologias-ageis-estudos`](https://github.com/everton19811/metodologias-ageis-estudos) | Comparativo Scrum × Kanban × SAFe, checklists e cerimônias. | Agile · SAFe |
+| 🛡️ [`product-owner`]([https://github.com/everton19811/product-owner) | Case de atuação como Product Owner | PO · ITIL · Governança |
 | 📈 [`dashboards-kpis-projetos`](https://github.com/everton19811/dashboards-kpis-projetos) | Modelos de KPIs, EVM e Status Report semanal. | KPIs · EVM · Reporting |
 
 ---
