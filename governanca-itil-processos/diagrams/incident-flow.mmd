@@ -1,0 +1,13 @@
+flowchart TD
+    A[Detecção] --> B[Registro do Incidente]
+    B --> C{Classificação}
+    C -->|P1/P2| D[Acionar N2 imediato]
+    C -->|P3/P4| E[Triagem N1]
+    D --> F[Diagnóstico]
+    E --> F
+    F --> G{Resolvido N1?}
+    G -->|Sim| H[Resolução]
+    G -->|Não| I[Escalonar N2/N3]
+    I --> H
+    H --> J[Recuperação e teste]
+    J --> K[Fechamento com aprovação]

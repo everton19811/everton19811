@@ -1,0 +1,10 @@
+flowchart LR
+    A[RFC criada] --> B[Avaliação técnica]
+    B --> C{Tipo}
+    C -->|Standard| D[Pré-aprovada]
+    C -->|Normal| E[CAB]
+    C -->|Emergency| F[ECAB]
+    D --> G[Execução]
+    E --> G
+    F --> G
+    G --> H[PIR — Revisão pós implementação]
