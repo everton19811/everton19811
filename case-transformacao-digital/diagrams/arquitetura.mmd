@@ -1,8 +1,0 @@
-flowchart TB
-    Oracle[(Oracle DB)] --> ETL[ETL/Integração]
-    Mainframe[(Mainframe)] --> ETL
-    ETL --> TM1[IBM Cognos TM1]
-    TM1 --> Rules[Motor de Regras]
-    Rules --> DB[(Data Mart)]
-    DB --> BI[Painel de Exceções]
-    BI --> User((Controladoria))
