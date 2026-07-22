@@ -80,7 +80,7 @@ Profissional Sênior com **+10 anos** liderando projetos que integraram **+20 si
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=everton-1981&theme=default" />
 </div>
 
----
+--- 
 
 <div align="center">
   <h3>🤝 Vamos conversar?</h3>
