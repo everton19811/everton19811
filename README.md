@@ -26,8 +26,6 @@ Atuação em **PMBOK · Ágil (Scrum/Kanban) · ITIL · Análise Funcional · Pr
 | 🧰 [gerente-de-projetos](https://github.com/everton-1981/gerente-de-projetos) | Templates PMBOK reutilizáveis |
 | 🚀 [transforma-o-digital](https://github.com/everton-1981/transforma-o-digital) | 5 cases (Cloud, TM1, Docusign) |
 | 🛡️ [product-owner](https://github.com/everton-1981/product-owner) | 3 cases (Marketplace, Loyalty, Open Banking) |
-| 📄 [documentacao-analise-funcional](https://github.com/everton-1981/documentacao-analise-funcional) | Material didático + case real |
-| 🗄️ [queries-e-modelagem-sql](https://github.com/everton-1981/queries-e-modelagem-sql) | SQL + Modelagem de dados |
 | 📈 [portfolio-de-cases](https://github.com/everton-1981/portfolio-de-cases) | Dashboards, KPIs e EVM |
 
 ---
