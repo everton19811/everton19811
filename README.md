@@ -2,22 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=160&section=header&text=Everton%20Pereira%20Santos&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="header"/>
 
-**Gerente de Projetos · Analista Funcional Sr. · Product Owner**
+**Analista de Negócios · Product Owner · Gestão de Projetos · Transformação Digital**
 
 🟢 **Disponível para novas oportunidades — Início imediato**
 📍 São Paulo/SP · CLT ou PJ · Presencial · Híbrido · 100% Remoto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967413787) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everton.pereira1981@gmail.com) [![Open to Work](https://img.shields.io/badge/Open_to_Work-00A86B?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos)
 
-![Profile Views](https://komarev.com/ghpvc/?username=everton-1981&label=Visitas&color=0a66c2&style=flat) ![Followers](https://img.shields.io/github/followers/everton-1981?label=Followers&style=flat&color=0a66c2)
+![Profile Views](https://komarev.com/ghpvc/?username=everton-1981&label=Visitas&color=0a66c2&style=flat) ![Followers](https://img.shields.io/github/followers/everton-1981?label=GitHub&style=flat&color=0a66c2) ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-8k_seguidores-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 </div>
 
 ## 👋 Sobre mim
 
-Profissional com **+10 anos** em **Gestão de Projetos, Análise Funcional e Governança de TI**, liderando iniciativas de transformação digital em ambientes com **+20 sistemas integrados** (ERP, CRM, BI, Cloud). Atuação prática em **PMBOK, Scrum, ITIL e SAFe**, com foco em resultado mensurável: redução de custo, ganho de eficiência e entrega de valor ao negócio.
+Profissional com **+15 anos** de experiência integrando **Negócios, TI e Processos Financeiros** em empresas de grande porte. Liderança de projetos estratégicos de **transformação digital, automação de processos e integração de sistemas corporativos** com foco em geração de valor, eficiência operacional e governança.
+
+Atuação prática em **PMBOK, Scrum, Kanban e ITIL**, especialista em ambientes financeiros com **IBM Cognos TM1, Oracle, SAP, OSGT e Mainframe**, traduzindo requisitos de negócio em soluções escaláveis, seguras e aderentes a compliance.
 
 📌 **Este perfil funciona como portfólio vivo** — cada repositório abaixo é um case real (anonimizado) documentado com artefatos de mercado.
+
+💬 **7 recomendações no LinkedIn** de líderes e pares (GPA, 3CON, Verx)
 
 ## 📂 Portfólio de Cases
 
@@ -31,39 +35,61 @@ Profissional com **+10 anos** em **Gestão de Projetos, Análise Funcional e Gov
 
 ## 🏆 Conquistas com resultado (STAR)
 
-### 🛒 GPA — Gerente de Projetos (atual)
-- **S:** Multi-projetos de modernização em ambiente com +20 sistemas legados.
-- **T:** Coordenar equipes multidisciplinares e reduzir retrabalho.
-- **A:** Padronizei governança com PMBOK + Scrum e implantei rituais de status report semanal.
-- **R:** **+15% de eficiência operacional** e redução de 30% no tempo de aprovação de escopo.
+### 🛒 GPA — Gerente de Projetos (2024–2025)
+- **S:** Sistemas de bonificação corporativa e importação/exportação (OSGT) impactados pela Reforma Tributária + alteração de CNPJ.
+- **T:** Adequar processos à nova legislação e coordenar contratos B2B em ambiente de grande porte.
+- **A:** Liderei análise funcional, alteração de CNPJ em cadastros e implementação de melhorias no OSGT com governança PMBOK + Scrum.
+- **R:** **Conformidade legal garantida**, redução de riscos fiscais e ciclo de aprovação **30% mais rápido**.
 
-### 💼 Verx Consulting — Analista Funcional Sr.
-- **S:** Integrações críticas entre ERP, CRM e plataformas fiscais.
-- **T:** Reduzir divergências de conciliação financeira.
-- **A:** Mapeei processos AS-IS/TO-BE, redesenhei fluxos e escrevi BRD/FRD detalhados.
-- **R:** **-40% de incidentes** em produção e ciclo de homologação 25% mais rápido.
+### 💼 Verx Tecnologia — Analista de Sistemas Sênior (2019–2020)
+- **S:** Processos financeiros e planejamento corporativo em **IBM Cognos TM1 Web (CFP)**.
+- **T:** Aumentar confiabilidade das análises gerenciais e automatizar rotinas críticas.
+- **A:** Sustentação e evolução dos módulos MFP, integração de sistemas e automação de processos.
+- **R:** **-40% de incidentes** em produção e ciclo de homologação **25% mais rápido**.
 
-### 🏢 3CON — Analista de Negócios
-- **S:** Projetos de BI e planejamento orçamentário com IBM Cognos TM1.
-- **T:** Automatizar rotinas manuais de fechamento.
-- **A:** Modelei cubos, criei regras TM1 e treinei usuários-chave.
-- **R:** Fechamento mensal **de 5 dias para 2 dias** (-60% no tempo).
+### 🏢 3CON Consultoria — Analista Funcional / Negócios (2012–2019)
+- **S:** Projetos de BI e planejamento orçamentário com IBM Cognos TM1 em múltiplos clientes.
+- **T:** Automatizar rotinas manuais de fechamento e envio de relatórios.
+- **A:** Modelei cubos, criei regras TM1, automatizei envio de e-mails corporativos e revitalizei o servidor Cognos.
+- **R:** Fechamento mensal **de 5 dias para 2 dias (-60%)** e execução paralela de rotinas com ganho de performance.
 
 ## 🛠️ Ferramentas & Metodologias
+
 <div align="center">
 
 | Gestão | Análise & Docs | BI & Dados | Cloud & Colaboração |
 |---|---|---|---|
 | ![PMBOK](https://img.shields.io/badge/PMBOK_7-0052CC?style=flat) | ![BRD](https://img.shields.io/badge/BRD_FRD_SRS-4B0082?style=flat) | ![TM1](https://img.shields.io/badge/Cognos_TM1-052FAD?style=flat) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
-| ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) | ![UML](https://img.shields.io/badge/UML-FF6F00?style=flat) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) |
-| ![ITIL](https://img.shields.io/badge/ITIL_4-2E8B57?style=flat) | ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
-| ![SAFe](https://img.shields.io/badge/SAFe-0072C6?style=flat) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white) | ![Docusign](https://img.shields.io/badge/Docusign-FFCC22?style=flat&logo=docusign&logoColor=white) |
+| ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) | ![UML](https://img.shields.io/badge/UML-FF6F00?style=flat) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white) |
+| ![Kanban](https://img.shields.io/badge/Kanban-14A085?style=flat) | ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) | ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| ![ITIL](https://img.shields.io/badge/ITIL_4-2E8B57?style=flat) | ![Excel_VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat&logo=microsoftexcel&logoColor=white) | ![Mainframe](https://img.shields.io/badge/Mainframe-333333?style=flat) | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white) |
 
 </div>
-## 🎓 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas**
+## 📜 Certificações Selecionadas
+
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)** · Ka Solution
+- 📊 **Microsoft Azure Data Fundamentals (DP-900)** · Ka Solution
+- 🔒 **Microsoft Security, Compliance & Identity (SC-900)** · Ka Solution
+- 🏢 **Microsoft 365 Fundamentals (MS-900)** · Ka Solution
+- ⚡ **Power Platform Fundamentals (PL-900)** · Ka Solution
+- 🚀 **Novo Framework Scrum 2020** · Ka Solution
+- 📈 **Gerenciamento de Projetos com Ênfase no PMI** (3 módulos) · Impacta Tecnologia
+- 💼 **SAP – Fundamentos Básicos** · Ka Solution
+- ☁️ **AWS Discovery Day** · Ka Solution
+- 🐳 **IBM Cloud – Containers/OpenShift, DevOps, Observability & Security** · IBM
+
+## 🎓 Formação Acadêmica
+
+- 🎓 **Pós-graduação em Gestão de Projetos** — Faculdade Alphaville (2023) · Nota **9,2**
+- 🎓 **Bacharelado em Sistemas de Informação** — Anhanguera Educacional (2001–2004) · Nota **9,5**
 - 📖 **Idiomas:** Português (Nativo)
+
+## 🎙️ Projeto Pessoal
+
+**Podcast "Fora do Radar"** — Host e Criador de Conteúdo (2022–2025)
+Canal independente sobre cultura gamer, entretenimento e cotidiano — desenvolvido em paralelo à carreira corporativa.
+[![YouTube](https://img.shields.io/badge/YouTube-@foradoradar-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@foradoradar)
 
 ## 📊 GitHub Stats
 
