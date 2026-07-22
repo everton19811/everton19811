@@ -87,9 +87,24 @@ Atuação prática em **PMBOK, Scrum, Kanban e ITIL**, especialista em ambientes
 
 ## 🎙️ Projeto Pessoal
 
+**Gamer "Everton Santos Play"** — Host e Criador de Conteúdo (2022–2025)
+- Canal independente sobre cultura gamer, entretenimento e cotidiano — desenvolvido em paralelo à carreira corporativa.
+- [![YouTube](https://img.shields.io/badge/YouTube-@evertonsantosplay-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@evertonsantosplay)
+- 📂 [Documentação do case] - não disponivel.
+- `host` · `youtuber` · `case` 
+
 **Podcast "Fora do Radar"** — Host e Criador de Conteúdo (2022–2025)
-Canal independente sobre cultura gamer, entretenimento e cotidiano — desenvolvido em paralelo à carreira corporativa.
-[![YouTube](https://img.shields.io/badge/YouTube-@foradoradar-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@foradoradar)
+- Canal independente sobre cultura gamer, entretenimento e cotidiano — desenvolvido em paralelo à carreira corporativa.
+- [![YouTube](https://img.shields.io/badge/YouTube-@foradoradar-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@foradoradar)
+- 📂 [Documentação do case] - não disponivel.
+- `host` · `youtuber` · `case` 
+
+**Site "Desenvolve no Espectro"** — Freelancer / Voluntário (2025)
+- Landing page institucional moderna + estrutura de gestão de beneficiários com governança LGPD para ONG.
+- [![Site](https://img.shields.io/badge/🌐_website-desenvolvenoespectro.com.br-2EA043?style=for-the-badge)](https://www.desenvolvenoespectro.com.br)
+- 📂 Documentação do case - não disponivel.
+- `Freelancer` · `Product Owner` · `React` · `TypeScript` · `Tailwind` · `Scrum` · `LGPD` · `ONG`
+
 
 ## 📊 GitHub Stats
 
